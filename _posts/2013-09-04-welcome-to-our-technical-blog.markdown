@@ -12,8 +12,8 @@ tags:
 
 We are a small team eager to do amazing things and share our work. 
 
-Since the begining we have been very open about our work so we've opensourced everything we use to build Auth0.
+Since the beginning we have been very open about our work and we've opensourced lots of the pieces that shape Auth0 as a product.
 
-In this blog inside.auth0.com, we would like to share technical details and problems we face in our daily basis, the things we use and the processes we follow which are not directly related to the problem that Auth0 solves.
+In this blog inside.auth0.com, we would like to share technical details and problems we face building, operating and scaling Auth0. The tools we use and the processes we follow which we think applies outside of what Auth0 is trying to solve.
 
 Stay tuned!
