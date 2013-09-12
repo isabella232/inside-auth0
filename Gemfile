@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+ruby '1.9.3'
+
 gem 'eventmachine', '>=1.0.0.beta.2'
 gem 'liquid', '~>2.3.0'
 gem 'RedCloth'
