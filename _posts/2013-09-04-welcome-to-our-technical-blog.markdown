@@ -10,7 +10,7 @@ author:
 tags: 
 ---
 
-We are an small team eager to do amazing things and share our work. 
+We are a small team eager to do amazing things and share our work. 
 
 Since the begining we have been very open about our work so we've opensourced everything we use to build Auth0.
 
