@@ -12,3 +12,4 @@ gem 'rdiscount'
 gem 'rack', "= 1.1.0"
 gem 'rack-contrib'
 gem 'thin'
+gem 'stringex'
