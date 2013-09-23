@@ -19,7 +19,7 @@ This is a cause really dear to our heart and we don't make any profit out of run
 
 Interested in the content? Everything (exercises and slides) is [open sourced and you can access it on our GitHub repo](https://github.com/auth0/bootcamp-workshop).
 
-Very likely we will have more of these coming in the next months. Follow us on twitter ([https://twitter.com/authzero]) to learn more. Also, let us know if you have suggestions on place, or topics; or if you would like to participate in the next one. [All feedback is very welcome!](bootcamp@auth0.com)
+Very likely we will have more of these coming in the next months. [Follow us on twitter](https://twitter.com/authzero) to learn more. Also, let us know if you have suggestions on place, or topics; or if you would like to participate in the next one. [All feedback is very welcome!](bootcamp@auth0.com)
 
 A few photos here:
 
