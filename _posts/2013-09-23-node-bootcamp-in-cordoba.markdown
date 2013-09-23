@@ -15,7 +15,7 @@ Last Friday, we hosted the [Node.js Bootcamp](http://nodejsbootcamp.com/) in [C�
 
 We were really excited to see the high interest and enthusiasm this generated in Córdoba. Fourty hackers, students, startup devs attended. People came mostly from Córdoba but also from other provinces and spent the whole day learning about node, MongoDB, GitHub and things we use to build and operate Auth0. We felt the excitment in the room but also online: [100+ tweets over the day!](https://twitter.com/search?q=%23cbanodebootcamp&src=typd&f=realtime)
 
-This is a cause really dear to our heart and we don't make any profit out of running the bootcamp. We would like to thank [MongoDB](http://www.mongodb.com/), [GitHub](http://github.com), [StrongLoop](http://strongloop.com) and [NewRelic](http://newrelic.com) for joining us as sponsors. Their contribution allowed us to make this event affordable to everyone. Attendees loved the books, content and other goodies they sent as well. Thanks!
+This is a cause really dear to our heart and we don't make any profit out of running the bootcamp. We simply love what we do and want to share it with more people. We would like to thank [MongoDB](http://www.mongodb.com/), [GitHub](http://github.com), [StrongLoop](http://strongloop.com) and [NewRelic](http://newrelic.com) for joining us as sponsors. Their contribution allowed us to make this event affordable to everyone. Attendees loved the books, content and other goodies they sent as well. Thanks!
 
 Interested in the content? Everything (exercises and slides) is [open sourced and you can access it on our GitHub repo](https://github.com/auth0/bootcamp-workshop).
 
