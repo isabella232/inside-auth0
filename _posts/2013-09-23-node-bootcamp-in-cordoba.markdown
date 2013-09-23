@@ -11,16 +11,20 @@ tags:
 - bootcamp
 ---
 
-We did our [Node.js Bootcamp for Startups](http://nodejsbootcamp.com/) for the third time, this time in Córdoba- Argentina. 
+We hosted a [Node.js Bootcamp](http://nodejsbootcamp.com/) last Friday. This time it was at [Córdoba, Argentina](https://maps.google.com.ar/maps?q=cordoba+argentina&hl=en&ie=UTF8&sll=-34.625863,-58.433533&sspn=0.42942,0.845261&hnear=C%C3%B3rdoba,+C%C3%B3rdoba+Province&t=m&z=12). This is the third time we do an event like this and it's getting better and better :)
 
-We were really excited to see the interest and the enthusiasm in Córdoba. Forty people joined the workshop from Córdoba but also from other provinces and stayed coding like crazy for 8 hours and making very good questions about the sample application.
+We were really excited to see the interest and enthusiasm this generated in Córdoba. Fourty hackers, students, startup devs attended. People came mostly from Córdoba but also from other provinces and spent the whole day learning about node, mongodb, GitHub and things we use to build and operate Auth0. Not only the excitment was at the room but also on Twitter: [100+ tweets over the day](https://twitter.com/search?q=%23cbanodebootcamp&src=typd&f=realtime)!
 
-Since our limit for this event was 40 sits we know plenty of you lost the change to participate but don't worry we are planning more events like this, stay in sync for upcoming news.
+This is a cause really dear to our heart and we don't make any profit out of running the bootcamp, so we would like to thanks [MongoDB](http://www.mongodb.com/), [GitHub](http://github.com), [StrongLoop](http://strongloop.com) and [NewRelic](http://newrelic.com) for collaborating on this.
 
-Also we want to thanks our awesome sponsors [MongoDB](http://www.mongodb.com/), [GitHub](http://github.com), [StrongLoop](http://strongloop.com) and [NewRelic](http://newrelic.com) for participating in this event and contributing with wonderful material.
+All the content (exercises and slides) is open sourced: https://github.com/auth0/bootcamp-workshop
+
+Follow us on twitter ([https://twitter.com/authzero]) if you want to know when will be the next one.
 
 Some photos here:
 
 <iframe 
 	src="https://cloudup.com/cZGzW87kJPX?chromeless" 
 	style="width: 100%;height: 550px;border: 1px solid grey;"></iframe>
+
+If you are interested in hosting a bootcamp like this in your city, please get [in touch with us](bootcamp@auth0.com)!
