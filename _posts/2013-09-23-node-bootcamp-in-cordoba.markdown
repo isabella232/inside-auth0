@@ -21,6 +21,21 @@ Interested in the content? Everything (exercises and slides) is [open sourced an
 
 Very likely we will have more of these coming in the next months. [Follow us on twitter](https://twitter.com/authzero) to learn more. Also, let us know if you have suggestions on place, or topics; or if you would like to participate in the next one. [All feedback is very welcome!](mailto:bootcamp@auth0.com)
 
+Some excerpts from the survey we've sent afterwards:
+
+* 90% of attendees were very or extremely satisfied with the bootcamp
+* 100% would recommend this bootcamp to others
+
+A few quotes from (translated from Spanish):
+
+> "...As a Startup CTO you gave me a lot of ideas/guidelines on where to work on"
+
+> "Excelent bootcamp. I ended up with my head full of knowledge and planning to try a lot of things."
+
+> "The bootcamp was great. I'm very happy I've decided to come. I loved the final hour with examples using TeamCity and GitHub"
+
+> "It was great go through different topics, hands-on, and see how each thing relates to each other. Congratulations!!" 
+
 A few photos here:
 
 <iframe 
